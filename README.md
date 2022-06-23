@@ -7,7 +7,9 @@ Developer
 Currently working as software engineer/architect. I am specialised in .NET technologies since 2007, especially C# and ASP.NET Core the last few years, but I also work on desktop apps (WPF) and Azure.
 
 *   🌍  I'm based in Paris
-*   🤝  I'm open to collaborating on interesting projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on interesting projects
+
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
